@@ -1,2 +1,2 @@
-This project is related to School Managment System
-INSTRUCTION UPDATE
+This project is related to School Managment System.
+INSTRUCTION UPDATE.
